@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Profile stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdostumski&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdostumski&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 Here are some ideas to get you started:
 
@@ -12,8 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Profile stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdostumski&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdostumski&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
