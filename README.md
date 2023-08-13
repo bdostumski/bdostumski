@@ -6,6 +6,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/borislav-dostumski/)
 - ⚡ Fun facts: I know Windows 98 and Visual Basic 6.0 😁
 
+<hr/>
+
 ### Public repos stats 😎
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdostumski&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
