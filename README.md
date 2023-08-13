@@ -1,7 +1,7 @@
 ### Hi there, I'm Borislav 👋
 
 - 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning Java, Spring, JS, React, Microservices
+- 🌱 I’m currently learning Java, Spring, JS, React, Microservices, DevOps
 - 🤔 I’m also interested in AI/ML, Scala, Python
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/borislav-dostumski/)
 - ⚡ Fun facts: I know Windows 98 and Visual Basic 6.0 😁
