@@ -1,7 +1,7 @@
 ### Hi there, I'm Borislav 👋
 
 - 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning Fullstack Development with Java, Spring, JS, React, Microservices, DevOps, AWS
+- 🌱 I’m currently learning Fullstack Development with Spring, React, Microservices, AWS
 - 🤔 I’m also interested in Data Science
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/borislav-dostumski/)
 - ⚡ Fun facts: I know Windows 98 and Visual Basic 6.0 😁
