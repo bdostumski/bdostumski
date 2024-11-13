@@ -1,8 +1,7 @@
 ### Hi there, I'm Borislav 👋
 
-- 🔭 I’m currently working on my personal projects
+- 🔭 I’m currently working on my projects
 - 🌱 I’m currently learning Distributed Systems and Software Development 
-- 🤔 I’m also interested in Cyber Security
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/borislav-dostumski/)
 - ⚡ Fun facts: I know Windows 98 and Visual Basic 6.0 😁
 
