@@ -1,9 +1,9 @@
-### Hi there, I'm Borislav 👋
-
-- 🔭 I’m currently working on my projects
-- 🌱 I’m currently learning Distributed Systems and Software Development 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/borislav-dostumski/)
-- ⚡ Fun facts: I know Windows 98 and Visual Basic 6.0 😁
+### Hey there, I'm Borislav Dostumski 👾
+- 🤓 Currently working on some epic projects
+- 🚀 Leveling up in Distributed Systems & Software Development
+- 💬 Hit me up on LinkedIn: [Borislav Dostumski](https://www.linkedin.com/in/borislav-dostumski/) 
+- 🧙 Wizard’s Toolkit: Arch Linux 🐧, Kitty Terminal 🐱, Doom Emacs 👿, and Neovim ⚔️
+- ⚡ Fun facts: I know Windows 98 and Visual Basic 6.0
 
 <hr/>
 
