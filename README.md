@@ -4,7 +4,7 @@
 - 🧙🏻‍♂️ Wizard’s Toolkit - Arch Linux 🐧 | Kitty Terminal 🐱 | Doom Emacs 😈 | Neovim ⚔️
 - ⚡ Fun facts - I know Windows 98 and Visual Basic 6.0
 
-### Links & Contacts 🌏
+### Contact me at 🌏
 - 💬 Hit me up on LinkedIn [Borislav Dostumski](https://www.linkedin.com/in/borislav-dostumski/)
 - 🏆 Track my milestones [Right here](https://bdostumski.github.io/)
 <hr/>
