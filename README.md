@@ -10,7 +10,7 @@
 
 <hr/>
 
-### Let's talk about statistics 😎
+### Let's talk about statistics 👀
 
 <br/>
 
