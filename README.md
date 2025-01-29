@@ -10,7 +10,7 @@
 <hr/>
 
 ### Public repos stats 😎
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdostumski&layout=compact&theme=tokyonight&border_color=aaaaaa&border_radius=15&hide=html,css&exclude_repo=bdostumski.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdostumski&layout=compact&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css&exclude_repo=bdostumski.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdostumski&show_icons=true&theme=tokyonight&border_color=aaaaaa&border_radius=15&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdostumski&show_icons=true&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
