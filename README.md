@@ -10,7 +10,7 @@
 
 <hr/>
 
-### Public repos stats 😎
+### Let's talk about statistics 😎
 
 <br/>
 
