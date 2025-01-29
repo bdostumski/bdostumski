@@ -7,6 +7,7 @@
 ### Contact me at 🌏
 - 💬 Hit me up on LinkedIn [Borislav Dostumski](https://www.linkedin.com/in/borislav-dostumski/)
 - 🏆 Track my milestones [Right here](https://bdostumski.github.io/)
+
 <hr/>
 
 ### Public repos stats 😎
