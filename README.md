@@ -5,7 +5,7 @@
 - ⚡ Fun facts - I know Windows 98 and Visual Basic 6.0
 
 ### Contact me at 🌏
-- 💬 Hit me up on LinkedIn [Borislav Dostumski](https://www.linkedin.com/in/borislav-dostumski/)
+- 💬 Hit me up on [LinkedIn](https://www.linkedin.com/in/borislav-dostumski/)
 - 🏆 Track my milestones [Dev Blog](https://bdostumski.github.io/)
 
 <hr/>
