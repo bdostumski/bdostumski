@@ -1,12 +1,12 @@
 ### Hey there, I'm Borislav Dostumski 👾
 - 🤓 Currently working on some epic projects
-- 🚀 Leveling up in Distributed Systems & Software Development
+- 🚀 Leveling up in Software Engineering & Technical Writing
 - 🧙🏻‍♂️ Wizard’s Toolkit - Arch Linux 🐧 | Kitty Terminal 🐱 | Doom Emacs 😈 | Neovim ⚔️
 - ⚡ Fun facts - I know Windows 98 and Visual Basic 6.0
 
 ### Contact me at 🌏
 - 💬 Hit me up on [LinkedIn](https://www.linkedin.com/in/borislav-dostumski/)
-- 🏆 Track my milestones [Dev Blog](https://bdostumski.github.io/)
+- 🏆 Track my milestones [Tech Blog](https://bdostumski.github.io/)
 
 <hr/>
 
