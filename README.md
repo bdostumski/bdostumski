@@ -6,7 +6,7 @@
 
 ### Contact me at 🌏
 - 💬 Hit me up on [LinkedIn](https://www.linkedin.com/in/borislav-dostumski/)
-- 🏆 Track my milestones [Blog](https://bdostumski.github.io/)
+- 🏆 Track my milestones [CoreHub Blog](https://bdostumski.github.io/)
 
 <hr/>
 
