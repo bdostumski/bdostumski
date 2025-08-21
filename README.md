@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdostumski&hide_progress=true&layout=compact&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css,scss&exclude_repo=bdostumski.github.io,learning-workspace)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdostumski&hide_progress=true&layout=compact&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css,scss,batchfile&exclude_repo=bdostumski.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
