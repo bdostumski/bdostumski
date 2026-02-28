@@ -1,12 +1,12 @@
 ### Hey there, I'm Borislav Dostumski 👾
 - 🤓 Currently working on some epic projects
 - 🚀 Leveling up in Software Engineering & Technical Writing
-- 🧙🏻‍♂️ Wizard’s Toolkit - Arch Linux 🐧 | Kitty Terminal 🐱 | Doom Emacs 😈 | Neovim ⚔️
+- 🧙🏻‍♂️ Wizard’s Toolkit - Arch Linux 🐧 | Shell Scripting >_ | Doom Emacs 😈 | Neovim ⚔️
 - ⚡ Fun facts - I know Windows 98 and Visual Basic 6.0
 
 ### Contact me at 🌏
 - 💬 Hit me up on [LinkedIn](https://www.linkedin.com/in/borislav-dostumski/)
-- 🏆 Track my milestones [CoreHub Blog](https://bdostumski.github.io/)
+- 🏆 Track my milestones [Personal Blog](https://bdostumski.github.io/)
 
 <hr/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdostumski&hide_progress=true&layout=compact&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css&exclude_repo=bdostumski.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdostumski&hide_progress=true&layout=compact&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css,scss,batchfile&exclude_repo=bdostumski.github.io,learning-workspace)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
