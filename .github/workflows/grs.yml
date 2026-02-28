@@ -37,4 +37,4 @@ jobs:
           git config user.email "bdostumski@gmail.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
-          git pushh
+          git push
