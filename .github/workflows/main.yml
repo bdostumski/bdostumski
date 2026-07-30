@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,15 +20,15 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=bdostumski&show_icons=true&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&custom_title=GitHub%20Stats
+          options: username=bdostumski&show_icons=true&hide=stars&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&custom_title=GitHub%20Stats
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN_MAIN_SCREEN }}
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=bdostumski&hide_progress=true&layout=compact&langs_count=6&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css,scss,batchfile&exclude_repo=bdostumski.github.io,learning-workspace
