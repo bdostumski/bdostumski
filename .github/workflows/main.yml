@@ -9,7 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read
+      actions: read
+      pull-requests: read
 
     steps:
       - name: Checkout repository
