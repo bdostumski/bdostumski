@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -14,16 +14,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
-
-      - name: Create profile folder
-        run: mkdir -p profile
+        uses: actions/checkout@v5
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=bdostumski&show_icons=true&hide=stars&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&custom_title=GitHub%20Stats
+          options: username=bdostumski&show_icons=true&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&custom_title=GitHub%20Stats
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN_MAIN_SCREEN }}
 
@@ -31,7 +28,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=bdostumski&hide_progress=true&layout=compact&langs_count=6&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css,scss,batchfile&exclude_repo=bdostumski.github.io,learning-workspace
+          options: username=bdostumski&hide_progress=true&layout=compact&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css,scss,batchfile&exclude_repo=bdostumski.github.io,learning-workspace
           path: profile/top-langs.svg
           token: ${{ secrets.GH_TOKEN_MAIN_SCREEN }}
 
