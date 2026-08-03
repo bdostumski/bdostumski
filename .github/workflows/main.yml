@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=bdostumski&hide_progress=true&layout=compact&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css,scss,batchfile&exclude_repo=bdostumski.github.io,learning-workspace
+          options: username=bdostumski&hide_progress=true&layout=compact&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css,scss,batchfile&exclude_repo=bdostumski.github.io,learning-w[...]
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
