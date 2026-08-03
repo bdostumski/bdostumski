@@ -2,19 +2,21 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
+      actions: read
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -22,7 +24,7 @@ jobs:
           card: stats
           options: username=bdostumski&show_icons=true&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&custom_title=GitHub%20Stats
           path: profile/stats.svg
-          token: ${{ secrets.GH_TOKEN_MAIN_SCREEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -30,15 +32,12 @@ jobs:
           card: top-langs
           options: username=bdostumski&hide_progress=true&layout=compact&theme=ayu-mirage&border_color=aaaaaa&border_radius=15&hide=html,css,scss,batchfile&exclude_repo=bdostumski.github.io,learning-workspace
           path: profile/top-langs.svg
-          token: ${{ secrets.GH_TOKEN_MAIN_SCREEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
-          git config user.name "bdostumski"
-          git config user.email "bdostumski@gmail.com"
-
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-
           git commit -m "Update README cards" || exit 0
-
           git push
